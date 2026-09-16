@@ -1,6 +1,9 @@
-# LEAFIO
+# LEAFIO (Mk 2)
 ### Introduction: Why this is
-Have you ever thought of a chat website that provides E2EE without requiring to submit E-Mail? This is one such private line. 
+Have you ever thought of a chat website that provides E2EE without requiring to submit E-Mail? This is one such private line.<br>
+Privacy Acknowledgement: The entire codes are dictated or unilaterally checked by Claude Sonnet or Opus, with the same thread still saved for documentation, reference and trust.<br>
+### Resource Acknowledgement
+Firebase, Github, Claude Anthropic
 <details>
   <summary>FEATURES (Mk. 2, 16.09.2026)</summary>
   <details>
@@ -43,7 +46,21 @@ Have you ever thought of a chat website that provides E2EE without requiring to 
   <summary>UPCOMING: Project Leafio(Mk. 3)</summary>
   <ol>
     <li>Edit self post</li>
-    <li>Pin any message, unpin any pin</li>
-    <li></li>
+    <li>Pin any message, unpin any pin, globally</li>
+    <li>Starring messages privately</li>
+    <li>Reply feature</li>
+    <li>Correct the formatting system</li>
+    <li>Set or Remove Global thread background</li>
+    <li>Set or remove Self theme (overriden by Global theme for the chat UI)</li>
+    <li>Global chat UI theme</li>
+    <li>Send image as temporary sticker reaction</li>
+    <li>Add secondary avatar on the back of primary one</li>
+    <li>"Available at this time today" feature</li>
+    <li>Can change presence indicator: Available, Offline, which defaults to Offline on signout</li>
+    <li>Mood indicator: 5 emojis for 5 moods</li>
+    <li>"i am exponential at ___ and my hobby is ___"</li>
+    <li>Automatic signout after 10 minutes of inactivity</li>
+    <li>Dynamic rating feature: Rating displayed on login screen</li>
+    <li>Interactive poll like whatsapp</li>
   </ol>
 </details>
