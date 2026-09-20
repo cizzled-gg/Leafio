@@ -62,5 +62,6 @@ Firebase, Github, Claude Anthropic
     <li>Automatic signout after 10 minutes of inactivity</li>
     <li>Dynamic rating feature: Rating displayed on login screen</li>
     <li>Interactive poll like whatsapp</li>
+    <li>Can create private thread with invited members, temporary</li>
   </ol>
 </details>
